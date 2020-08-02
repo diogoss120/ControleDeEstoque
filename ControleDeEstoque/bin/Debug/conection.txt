@@ -1,0 +1,1 @@
+server=localhost;user id=root;password=4052;database=controleDeEstoque;port=3306
