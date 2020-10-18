@@ -1,1 +1,1 @@
-Neste repositório estou desenvolvendo um Aplicativo Windows Forms para controle de estoque e vendas da loja Leal Acessórios
+Neste repositório guardo os códigos de um Aplicativo Windows Forms para controle de estoque e vendas da loja Leal Acessórios, quando fiz ele eu estava aprendendo a programar e não usei técnicas de POO, usei apenas elementos básicos da linguagem c#.
